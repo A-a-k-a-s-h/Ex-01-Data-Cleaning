@@ -98,6 +98,9 @@ data.isnull().sum()
 ## Median
 ![Data Cleaning](/images/median2.png)
 
+## After Cleaning
+![Data Cleaning](/images/image4.png)
+
 # RESULT
 Thus the given data is read, cleansed and the cleaned data is saved into the file.
 
